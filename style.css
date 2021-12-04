@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(#77edc2 0%,#2b00ff 100% );
+}
+.heading{
+    width: 80%;
+    font-size: 25px;
+    }
+    .name_of_objects{
+        color:azure;
+    }
+    #camera{
+        border: 2px dotted black;
+        width:350px;
+        height:300px;
+    }
+    #result_object_name,#result_object_accuracy {
+        color: white;
+    }
+    p{
+        color: white;
+    }
